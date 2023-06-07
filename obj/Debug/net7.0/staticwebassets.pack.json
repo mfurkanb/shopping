@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ubeyd\\source\\repos\\ShoppingCard\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingCard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingCard.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ubeyd\\source\\repos\\ShoppingCard\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ubeyd\\source\\repos\\ShoppingCard\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ubeyd\\source\\repos\\ShoppingCard\\wwwroot\\img\\hobbit.jpg",
+      "PackagePath": "staticwebassets\\img\\hobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ubeyd\\source\\repos\\ShoppingCard\\wwwroot\\img\\noimage.png",
+      "PackagePath": "staticwebassets\\img\\noimage.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingCard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingCard.props",
+      "PackagePath": "build\\ShoppingCard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCard.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCard.props",
+      "PackagePath": "buildTransitive\\ShoppingCard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
